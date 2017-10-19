@@ -2,7 +2,7 @@
 category: Components
 type: Other
 subtitle: 回到顶部
-title: BackTop
+title: BackTop!
 ---
 
 返回页面顶部的操作按钮。
